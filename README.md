@@ -11,7 +11,7 @@ This is a simple clone of the popular Candy Crush game, built using HTML, CSS, a
 - Background music for an enhanced gaming experience
 
 ## Demo
-
+[https://fatemahnur.github.io/CandyCrush/]
 
 
 ## Screenshots
