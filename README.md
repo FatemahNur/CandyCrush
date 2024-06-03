@@ -8,15 +8,11 @@ This is a simple clone of the popular Candy Crush game, built using HTML, CSS, a
 - Drag and drop to swap tiles
 - Match three or more tiles of the same color to score points
 - Animated tile movements
-- Background music for an enhanced gaming experience
+  
 
 ## Demo
 [https://fatemahnur.github.io/CandyCrush/]
 
-
-## Screenshots
-
-![]()
 
 ## Getting Started
 
